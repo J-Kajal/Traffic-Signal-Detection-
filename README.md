@@ -1,4 +1,5 @@
 🚦 Traffic Signal Identifier using CNN with Voice Alerts
+
 This project is a voice alert-based system that identifies and classifies traffic signals (Red, Yellow, Green) from images or live video feeds and *generates voice-based alerts* utilizing text-to-speech. It is implemented using *Python, **YOLOv5, **OpenCV, and **pyttsx3* for voice output.
 
 
